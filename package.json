@@ -1,0 +1,15 @@
+{
+  "name": "nodejsestudo",
+  "version": "1.0.0",
+  "description": "Estudos de NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Luan Simões",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
